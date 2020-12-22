@@ -8,7 +8,7 @@ LoRa + WiFi Mesh Network for Arduino (AVR,ESP8266,ESP32)
 
 # LoRa + WiFi mesh network
 © 2020 by antónio montez . All rights reserved.
-Licensed under the MIT license.
+GNU General Public License v3.0
 
 
 This is a (another) library to create a mesh network of different devices and protocols.
